@@ -22,11 +22,9 @@
 <br>
  
 <p align="center">
-  <a href="https://github.com/luoye6" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=luoye6&title_color=333&text_color=777" alt="luoye6's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=luoye6&hide=issues&title_color=333&text_color=777" alt="luoye6's Stats" >
-    -->
+  <a href="https://github.com/RicardoLu7" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=RicardoLu7&title_color=333&text_color=777" alt="RicardoLu7's Stats" >
+
   </a>
 </p>
  
