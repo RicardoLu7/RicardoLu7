@@ -1,7 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到RicardoLu7的github!&center=true&size=27"> </a> </h1>
-<a href="https://github.com/RicardoLu7/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=RicardoLu7&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到RicardoLu7的github!&center=true&size=27"> </a> </h1>
  
 ## Hi, 👋  I'm <a href="https://github.com/RicardoLu7/">RicardoLu7</a>
  
