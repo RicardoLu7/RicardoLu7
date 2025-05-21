@@ -3,7 +3,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=RicardoLu7&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="https://luoye6.github.io/">RicardoLu7</a>
+## Hi, 👋  I'm <a href="https://github.com/RicardoLu7/">RicardoLu7</a>
  
 <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://luoye6.github.io/" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
